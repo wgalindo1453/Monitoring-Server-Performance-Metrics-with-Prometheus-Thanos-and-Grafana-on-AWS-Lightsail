@@ -1,3 +1,5 @@
+![Your Top Image Here](path/to/top/image.png)
+
 # Monitoring Server Performance Metrics with Prometheus, Thanos, and Grafana on AWS Lightsail
 
 ## Introduction
@@ -23,8 +25,12 @@ This repository provides a detailed setup for monitoring performance metrics on 
 
 ## Setup Instructions
 
-[Provide detailed step-by-step instructions or link to a setup guide.]
+1. Create an AWS account and set up a Lightsail instance with Ubuntu. [Instructions](https://aws.amazon.com/blogs/opensource/improving-ha-and-long-term-storage-for-prometheus-using-thanos-on-eks-with-s3/)
+2. Install and configure Prometheus on Ubuntu. [Instructions](https://www.cherryservers.com/blog/install-prometheus-ubuntu)
+3. Refer to the official Thanos documentation for detailed setup and configurations. [Thanos Documentation](https://thanos.io/)
 
 ## Conclusion
 
 This setup offers a unique approach to performance monitoring on a single AWS Lightsail instance, leveraging the power of Prometheus, Thanos, and Grafana. Whether you're running scheduled performance benchmarks or simply want a detailed view of your server's health, this solution provides a compact yet powerful monitoring stack.
+
+![Your Bottom Image Here](path/to/bottom/image.png)
