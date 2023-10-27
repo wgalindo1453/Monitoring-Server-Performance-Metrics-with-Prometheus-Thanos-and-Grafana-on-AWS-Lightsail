@@ -1,4 +1,4 @@
-![Your Top Image Here](path/to/top/image.png)
+![Your Top Image Here](LightSail.png)
 
 # Monitoring Server Performance Metrics with Prometheus, Thanos, and Grafana on AWS Lightsail
 
@@ -33,4 +33,4 @@ This repository provides a detailed setup for monitoring performance metrics on 
 
 This setup offers a unique approach to performance monitoring on a single AWS Lightsail instance, leveraging the power of Prometheus, Thanos, and Grafana. Whether you're running scheduled performance benchmarks or simply want a detailed view of your server's health, this solution provides a compact yet powerful monitoring stack.
 
-![Your Bottom Image Here](path/to/bottom/image.png)
+![Your Bottom Image Here](path/to/bottom/grafana.png)
